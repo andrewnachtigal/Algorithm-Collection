@@ -1,11 +1,10 @@
-Pythonic Data Structures and Algorithms
+Python Data Structures and Algorithms
 =========================================
-
-Minimal and clean example implementations of data structures and algorithms in Python.
-
 
 ## List of Implementations
 
+- [hash](hash)
+    - [bloom filter](hash/bloom filter)
 - [array](array)
     - [circular_counter](array/circular_counter.py)
     - [flatten](array/flatten.py)
@@ -34,9 +33,6 @@ Minimal and clean example implementations of data structures and algorithms in P
     - [permute_unique](backtrack/permute_unique.py)
     - [subsets](backtrack/subsets.py)
     - [subsets_unique](backtrack/subsets_unique.py)
-- [bfs](bfs)
-    - [shortest_distance_from_all_buildings](bfs/shortest_distance_from_all_buildings.py)
-    - [word_ladder](bfs/word_ladder.py)
 - [bit](bit)
     - [count_ones](bit/count_ones.py)
     - [power_of_two](bit/power_of_two.py)
@@ -47,12 +43,6 @@ Minimal and clean example implementations of data structures and algorithms in P
     - [add_without_operator](bit/add_without_operator.py)
 - [calculator](calculator)
     - [math_parser](calculator/math_parser.py)
-- [dfs](dfs)
-    - [all_factors](dfs/all_factors.py)
-    - [count_islands](dfs/count_islands.py)
-    - [pacific_atlantic](dfs/pacific_atlantic.py)
-    - [sudoku_solver](dfs/sudoku_solver.py)
-    - [walls_and_gates](dfs/walls_and_gates.py)
 - [dp](dp)
     - [buy_sell_stock](dp/buy_sell_stock.py)
     - [climbing_stairs](dp/climbing_stairs.py)
@@ -121,6 +111,15 @@ Minimal and clean example implementations of data structures and algorithms in P
     - [count_elem](search/count_elem.py)
     - [first_occurance](search/first_occurance.py)
     - [last_occurance](search/last_occurance.py)
+    - [dfs](dfs)
+        - [all_factors](dfs/all_factors.py)
+        - [count_islands](dfs/count_islands.py)
+        - [pacific_atlantic](dfs/pacific_atlantic.py)
+        - [sudoku_solver](dfs/sudoku_solver.py)
+        - [walls_and_gates](dfs/walls_and_gates.py)
+    - [bfs](bfs)
+        - [shortest_distance_from_all_buildings](bfs/shortest_distance_from_all_buildings.py)
+        - [word_ladder](bfs/word_ladder.py)
 - [set](set)
     - [randomized_set](set/randomized_set.py)
 - [sort](sort)
