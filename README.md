@@ -155,6 +155,7 @@ Python Data Structures and Algorithms
     - [roman_to_int](string/roman_to_int.py)
     - [word_squares](string/word_squares.py)
 - [tree](tree)
+    - [FP-tree](tree/fp-growth)
     - [segment-tree](tree/Segment_Tree)
         - [segment_tree](tree/Segment_Tree/segment_tree.py)
     - [binary_tree_paths](tree/binary_tree_paths.py)
