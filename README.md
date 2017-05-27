@@ -199,7 +199,8 @@ Python Data Structures and Algorithms
 
 ## List of Component Implementation
 - [calculator](calculator) ([go to top](#top))
-    - [math_parser](calculator/math_parser.py)
+    - [math_parser_01](calculator/math_parser_01.py)
+    - [math_parser_02](calculator/math_parser_02.py)
 
 ## List of Designs
 - [design](design) ([go to top](#top))
