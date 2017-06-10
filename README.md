@@ -91,6 +91,9 @@ Python Data Structures and Algorithms
     - [reverse_words](string/reverse_words.py)
     - [roman_to_int](string/roman_to_int.py)
     - [word_squares](string/word_squares.py)
+    - [math_parser_01](string/math_parser_01.py)
+    - [math_parser_02](string/math_parser_02.py)
+    - [url encoding decoding](string/encode_decode_URL.py)
 - [tree](tree) ([go to top](#top))
     - [FP-tree](tree/fp-growth)
     - [segment-tree](tree/Segment_Tree)
@@ -196,12 +199,6 @@ Python Data Structures and Algorithms
     - [pythagoras](math/pythagoras.py)
 - [union-find](union-find) ([go to top](#top))
     - [count_islands](union-find/count_islands.py)
-
-## List of Component Implementation
-- [Application](application) ([go to top](#top))
-    - [math_parser_01](application/math_parser_01.py)
-    - [math_parser_02](application/math_parser_02.py)
-    - [url encoding decoding](application/encode_decode_URL.py)
 
 ## List of Designs
 - [design](design) ([go to top](#top))
