@@ -18,6 +18,7 @@ Python Data Structures and Algorithms
     - [summary_ranges](array/summary_ranges.py)
     - [three_sum](array/three_sum.py)
     - [two_sum](array/two_sum.py)
+    - [Single_Element_Sorted_Array](array/Single_Element_Sorted_Array.py)
 - [graph](graph) ([go to top](#top))
     - [clone_graph](graph/clone_graph.py)
     - [find_path](graph/find_path.py)
