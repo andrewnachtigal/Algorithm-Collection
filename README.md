@@ -47,6 +47,7 @@ Python Data Structures and Algorithms
     - [queue](queue/queue.py)
     - [reconstruct_queue](queue/reconstruct_queue.py)
     - [zigzagiterator](queue/zigzagiterator.py)
+    - [Network packet processing simulation](queue/process_packages.py)
 - [matrix](matrix) ([go to top](#top))
     - [matrix_rotation.txt](matrix/matrix_rotation.txt)
     - [bomb_enemy](matrix/bomb_enemy.py)
