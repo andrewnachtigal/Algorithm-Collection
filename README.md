@@ -28,6 +28,7 @@ Python Data Structures and Algorithms
     - [merge_sorted_k_lists](heap/merge_sorted_k_lists.py)
     - [skyline](heap/skyline.py)
     - [sliding_window_max](heap/sliding_window_max.py)
+    - [heap_sort](heap/build_heap.py)
 - [linkedlist](linkedlist) ([go to top](#top))
     - [add_two_numbers](linkedlist/add_two_numbers.py)
     - [copy_random_pointer](linkedlist/copy_random_pointer.py)
