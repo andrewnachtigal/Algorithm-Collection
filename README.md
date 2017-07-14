@@ -98,6 +98,7 @@ Python Data Structures and Algorithms
     - [math_parser_02](string/math_parser_02.py)
     - [url encoding decoding](string/encode_decode_URL.py)
 - [tree](tree) ([go to top](#top))
+    - [scheduler](tree/scheduler.py)
     - [FP-tree](tree/fp-growth)
     - [segment-tree](tree/Segment_Tree)
         - [segment_tree](tree/Segment_Tree/segment_tree.py)
