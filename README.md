@@ -134,6 +134,7 @@ Python Data Structures and Algorithms
         - [level_order](tree/traversal/level_order.py)
         - [zigzag](tree/traversal/zigzag.py)
     - [tree](tree/tree.py)
+    - [binary search](tree/binary_search.py)
     - [trie](tree/trie)
         - [add_and_search](tree/trie/add_and_search.py)
         - [trie](tree/trie/trie.py)
